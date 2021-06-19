@@ -3,10 +3,10 @@ A simple program that copies files in accordance with the configuration file. Th
 The program is written in c++, on linux Ubuntu 20.04.2 LTS,
 using the gcc version 9.3.0 compiler (Ubuntu 9.3.0-17ubuntu1~20.04)
 
-To use it, clone the repository
-Do make to build the program
-Run ./programm
-Follow the instructions
+1. To use it, clone the repository
+2. Do make to build the program
+3. Run ./programm
+4. Follow the instructions
 
 Example
 Configuration file:
